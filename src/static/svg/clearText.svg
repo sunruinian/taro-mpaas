@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>清空文本</title>
+    <desc>Created with Sketch.</desc>
+    <g id="V2.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="昵称" transform="translate(-343.000000, -99.000000)">
+            <g id="清空文本" transform="translate(343.000000, 99.000000)">
+                <circle id="Oval-2" fill="#C2C2C2" cx="8" cy="8" r="8"></circle>
+                <path d="M8.51694718,8 L11,10.4830528 L10.4830528,11 L8,8.51694718 L5.51694718,11 L5,10.4830528 L7.48305282,8 L5,5.51694718 L5.51694718,5 L8,7.48305282 L10.4830528,5 L11,5.51694718 L8.51694718,8 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

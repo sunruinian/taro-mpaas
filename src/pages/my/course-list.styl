@@ -1,0 +1,155 @@
+STATIC_URL = 'https //csdnimg.cn/weapp/webapp_taroapp/'
+
+.container
+  .nav-tabs
+    display flex
+    justify-content space-around
+    width 690px
+    padding 0 29px
+    font-size 29px
+    font-family 'PingFangSC-Regular'
+    font-weight 400 
+    color rgba(136,142,153,1)
+    line-height  40px
+    border-bottom 1px solid #e8e8e8
+  .tab-item
+    display flex
+    justify-content center
+    align-items center
+    flex-shrink 0
+    position relative
+    // width 230px
+    height 87px
+    .underline
+      flex-shrink 0
+      position absolute
+      bottom 9px
+      width 36px
+      height 4px
+      left 50%
+      margin-left -13px
+      background rgba(217,46,46,1)
+  .active
+    color rgba(42,45,51,1)
+    flex-shrink 0
+  .swiper-slide
+    // margin-right 29px
+    
+  .swiper-container-horizontal
+    // width 750px
+    // padding 0 29px
+    .empty-list
+      display flex
+      justify-content center
+      align-items center
+      flex-direction column
+      width 750px
+      .empty-img
+        width 181px
+        height 181px
+      .empty-text
+        margin 18px 0 105px 0
+        font-size 25px
+        font-family 'PingFangSC-Regular'
+        font-weight 400
+        color rgba(136,142,153,1)
+        line-height 36px
+        // 最近学习时间轴
+  .at-timeline:last-child
+    margin-bottom 30px
+  .at-timeline
+    padding-top 24px
+    padding-left 29px
+    div:first-child [class=at-timeline-item__dot]::after
+      width 36px
+      height 36px
+      background #D92E2E
+      // box-shadow 0px 4px 5px 0px rgba(217,46,46,0.5)
+    div:first-child [class=at-timeline-item__dot]
+      left 11px
+      top 0px
+    .at-timeline-item
+      width 750px
+      padding 0 0 38px
+      .at-timeline-item__tail
+        width 36px
+        left 28px
+        border-left 2px solid #CED2D9
+      .at-timeline-item__dot
+        left 16px
+      .at-timeline-item__dot::after
+        width 25px
+        height 25px
+        background rgba(206,210,217,1)
+        border 0 solid transparent
+      .at-timeline-item__content
+        .at-timeline-item__content-item
+          margin 0 0 9px 53px
+          font-size 29px
+          font-family "PingFangSC-Medium"
+          font-weight 500
+          color rgba(42,45,51,1)
+          line-height 40px
+          .at-list:last-child
+            padding-bottom 0
+          .item-content__info
+            width 366px
+            .item-content__info-title
+              width 366px
+    .at-timeline-item:last-child .at-timeline-item__tail
+      display block     
+// list 通用样式
+.class-list
+  padding-left 29px
+.at-list:last-child
+  padding-bottom 72px
+.at-list__item
+  display flex
+  align-items center
+  height 188px
+  padding 0
+  .at-list__item-container
+    display inline-flex
+    flex-shrink 0
+    .item-thumb
+      height 145px
+      width 217px
+      .item-thumb__info
+        border-radius 9px
+        background-color #f0f0f5
+    .item-content
+      width 446px
+      .item-content__info
+        width 446px
+        height 145px   
+        .item-content__info-title
+          width 446px
+          height 72px
+          margin-bottom 43px
+          font-size 25px
+          font-family "PingFangSC-Regular"
+          font-weight 400
+          color rgba(42,45,51,1)
+          line-height 36px
+          white-space normal
+        .item-content__info-note
+          font-size 22px
+          font-family "PingFangSC-Regular"
+          font-weight 400
+          color rgba(136,142,153,1)
+          line-height 29px
+    .item-extra
+      position initial
+      .item-extra__info
+        position absolute
+        left 243px
+        bottom 60px
+        font-size 22px
+        font-family PingFangSC-Regular
+        font-weight 400
+        color rgba(136,142,153,1)
+        line-height 29px
+      .item-extra__icon-arrow
+        color transparent
+div::-webkit-scrollbar 
+    display none

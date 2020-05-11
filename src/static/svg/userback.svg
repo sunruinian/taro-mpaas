@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="24px" viewBox="0 0 14 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>back@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="箭头-copy" transform="translate(-5.000000, -6.000000)" fill="#FFFFFF">
+            <path d="M5.46731108,18.6940054 C5.0705494,18.3111614 5.07524638,17.6859164 5.46731108,17.3076046 L16.7164789,6.45303667 C17.1132406,6.07019266 17.7505548,6.06443826 18.151141,6.45097268 L18.5308992,6.81740966 C18.9264795,7.19911376 18.9217329,7.82255855 18.5337077,8.19697249 L8.37347307,18.000805 L18.5337077,27.8046375 C18.9277369,28.1848449 18.9314854,28.7976659 18.5308992,29.1842003 L18.151141,29.5506373 C17.7555607,29.9323414 17.1085436,29.9268851 16.7164789,29.5485733 L5.46731108,18.6940054 Z" id="back"></path>
+        </g>
+    </g>
+</svg>

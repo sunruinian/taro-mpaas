@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="22px" viewBox="0 0 15 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>收藏(4d4d4d)</title>
+    <desc>Created with Sketch.</desc>
+    <g id="组件" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="V2.2评论框-Copy" transform="translate(-300.000000, -13.000000)" fill="#CA0C16" stroke="#CA0C16" stroke-width="2">
+            <g id="V2.2-已收藏" transform="translate(295.000000, 12.000000)">
+                <path d="M7.5,2 L17.5,2 C18.3284271,2 19,2.67157288 19,3.5 L19,21.2585589 C19,21.5347013 18.7761424,21.7585589 18.5,21.7585589 C18.4014049,21.7585589 18.3050104,21.7294093 18.2229366,21.6747751 L12.5,17.8651776 L6.77706336,21.6747751 C6.54719352,21.8277929 6.2368017,21.7654921 6.08378384,21.5356223 C6.02914964,21.4535485 6,21.357154 6,21.2585589 L6,3.5 C6,2.67157288 6.67157288,2 7.5,2 Z" id="Rectangle"></path>
+            </g>
+        </g>
+    </g>
+</svg>

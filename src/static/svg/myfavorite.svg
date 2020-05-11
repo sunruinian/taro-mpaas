@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>分组 10@2x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="V2.1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="个人中心" transform="translate(-16.000000, -473.000000)">
+            <g id="分组-10" transform="translate(16.000000, 473.000000)">
+                <rect id="矩形-copy" fill="#FFB73C" fill-rule="nonzero" x="0" y="0" width="22" height="22" rx="4"></rect>
+                <g id="V2.1收藏" transform="translate(1.000000, 1.000000)" fill="#FFFFFF">
+                    <path d="M6.66666667,2.5 L13.3333333,2.5 C14.2538079,2.5 15,3.17139592 15,3.99960475 L15,16.9000944 C15,17.2313779 14.7015232,17.4999363 14.3333333,17.4999363 C14.2017167,17.4999363 14.0730449,17.4648827 13.9635332,17.399193 L10,15.0216997 L6.0364668,17.399193 C5.73011434,17.582956 5.31620144,17.5084713 5.11196647,17.2328268 C5.03895868,17.1342922 5,17.0185181 5,16.9000944 L5,3.99960475 C5,3.17139592 5.74619208,2.5 6.66666667,2.5 Z" id="Rectangle-3"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
