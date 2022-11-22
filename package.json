@@ -43,7 +43,7 @@
     "@tarojs/plugin-sass": "1.2.7",
     "@tarojs/plugin-stylus": "^2.2.3",
     "@tarojs/plugin-uglifyjs": "1.2.7",
-    "@tarojs/webpack-runner": "1.2.7",
+    "@tarojs/webpack-runner": "3.5.7",
     "@types/react": "^16.4.6",
     "@types/webpack-env": "^1.13.6",
     "babel-eslint": "^8.2.3",
